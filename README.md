@@ -1,34 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Usando React com Next
 
-## Getting Started
+## Pré-requisitos
 
-First, run the development server:
+Certifique-se de ter o seguinte software instalado em seu sistema:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- Node.js: [Download](https://nodejs.org/)
+- executar no terminal: npm install -g npm@latest
+- Um editor de código, como Visual Studio Code
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Criando o projeto
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Para melhor organização crie uma pasta.
+- Abra a pasta e clique com o botão direito.
+- Abra com o terminal ou git bash.
+- Você deverá executar o: npx create-next-app
+- Logo após configure da maneira mais atual, como está abaixo:
+- ![config](https://github.com/glauber2k2/FabricaDay1/blob/main/images/Imagem%20do%20WhatsApp%20de%202023-08-30%20%C3%A0(s)%2017.49.30.jpg)
+- Após o projeto criado, execute: cd (nome do seu projeto)
+- ![config](https://github.com/glauber2k2/FabricaDay1/blob/main/images/Imagem%20do%20WhatsApp%20de%202023-08-30%20%C3%A0(s)%2017.50.06.jpg)
+- Execute o comando: code .
+- Para o vscode abrir direto na pasta do seu projeto:
+- ![config](https://github.com/glauber2k2/FabricaDay1/blob/main/images/Imagem%20do%20WhatsApp%20de%202023-08-30%20%C3%A0(s)%2017.50.46.jpg)
+- Após o vscode iniciar, pressione o atalho: ctrl + aspas, para abrir o terminal do vscode.
+- E execute: npm run dev
+- ![config](https://github.com/glauber2k2/FabricaDay1/blob/main/images/Imagem%20do%20WhatsApp%20de%202023-08-30%20%C3%A0(s)%2018.00.21.jpg)
+- Após isso, será iniciado seu servidor local
+- Agora pressione ctrl e clique no localhost:
+- ![config](https://github.com/glauber2k2/FabricaDay1/blob/main/images/Imagem%20do%20WhatsApp%20de%202023-08-30%20%C3%A0(s)%2017.55.30.jpg)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+# Para executar meu projeto na sua maquina:
 
-## Learn More
+# Duvidas?
+Insta [GlauberDev](https://www.instagram.com/devglauber/)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
