@@ -28,7 +28,7 @@ Certifique-se de ter o seguinte software instalado em seu sistema:
 - Agora pressione ctrl e clique no localhost:
 - ![config](https://github.com/glauber2k2/FabricaDay1/blob/main/images/Imagem%20do%20WhatsApp%20de%202023-08-30%20%C3%A0(s)%2017.55.30.jpg)
 
-# Para executar meu projeto na sua maquina:
+# Executar meu projeto na sua maquina:
 
 - Para melhor organização crie uma pasta.
 - Abra a pasta e clique com o botão direito.
