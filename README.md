@@ -30,6 +30,17 @@ Certifique-se de ter o seguinte software instalado em seu sistema:
 
 # Para executar meu projeto na sua maquina:
 
+- Para melhor organização crie uma pasta.
+- Abra a pasta e clique com o botão direito.
+- Abra com o terminal ou git bash.
+- Execute: git clone https://github.com/glauber2k2/FabricaDay1.git
+- Agora execute: cd .\FabricaDay1\
+- Execute: code .
+- Abra o terminal do vscode: Ctrl + aspas
+- Execute npm install
+- Execute npm run dev
+- E ctrl + clique em localhost
+
 # Duvidas?
 Insta [GlauberDev](https://www.instagram.com/devglauber/)
 
