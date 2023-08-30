@@ -42,7 +42,7 @@ Certifique-se de ter o seguinte software instalado em seu sistema:
 - E ctrl + clique em localhost
 
 # Duvidas?
-Insta [GlauberDev](https://www.instagram.com/devglauber/)
+Pergunte no Insta: [@GlauberDev](https://www.instagram.com/devglauber/)
 
 
 
