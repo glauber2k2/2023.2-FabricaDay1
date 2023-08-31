@@ -33,7 +33,7 @@ Certifique-se de ter o seguinte software instalado em seu sistema:
 - Para melhor organização crie uma pasta.
 - Abra a pasta e clique com o botão direito.
 - Abra com o terminal ou git bash.
-- Execute: git clone https://github.com/glauber2k2/FabricaDay1.git
+- Execute: git clone https://github.com/glauber2k2/2023.2-FabricaDay1.git
 - Agora execute: cd .\FabricaDay1\
 - Execute: code .
 - Abra o terminal do vscode: Ctrl + aspas
